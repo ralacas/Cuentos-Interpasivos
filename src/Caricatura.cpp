@@ -7,3 +7,4 @@
 #include "Caricatura.h"
 
 //Aqui ponemos la interacción con el Kinect que va a ser el que nos dibuje la silueta
+//Quesque le agregué algo sabe
